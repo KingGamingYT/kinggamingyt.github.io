@@ -1,0 +1,25 @@
+[class*="avatarDecoration"],[class*="profileEffects"],[class*="bannerSVG"]{
+    display: unset !important;
+}
+.bannerSVGWrapper_b32cc2 mask{
+    display: none
+}
+.userPopoutOuter_c69a7b .banner_c3e427{
+    max-width: 250px;
+    position: relative
+}
+
+.avatarWrapper_f89da9{
+    position: absolute !important
+}
+
+.usernameSection_d2b491{
+    padding-top: 40px
+}
+.avatarPositionPremiumBanner_f89da9{
+    top: 75px !important
+}
+
+#app-mount .avatarPositionPremiumNoBanner_f89da9{
+	top: 45px !important
+}
