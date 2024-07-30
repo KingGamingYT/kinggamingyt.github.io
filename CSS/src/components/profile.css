@@ -445,9 +445,9 @@
 }
 
 /*note button*/
-.nicknameIcons_c32acf {
-	display: none;
-}
+.nicknameIcons_c32acf > div[aria-label]:after {
+	content: attr(aria-label)
+	}
 /*
 .nicknameIcons_c32acf {
   position: absolute;
